@@ -1,0 +1,10 @@
+{
+  "extends": "rallycoding",
+  "parser": "babel-eslint",
+  "ecmaFeatures": {
+    "jsx": true
+  },
+  "globals": {
+    "fetch": true
+  }
+}
